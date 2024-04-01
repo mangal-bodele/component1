@@ -12,3 +12,4 @@ class Userlist extends Component{
   }
 
 }
+export default Userlist;

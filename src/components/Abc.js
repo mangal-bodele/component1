@@ -12,3 +12,4 @@ class Abc extends Component{
   }
 
 }
+export default Abc;
